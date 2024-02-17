@@ -1,6 +1,0 @@
-# x = 2;;
-Error: Unbound value x
-# let x = 2;;
-val x : int = 2
-# let y = x + 2;;
-val y : int = 4
